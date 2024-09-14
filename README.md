@@ -63,7 +63,5 @@ This **Power BI Dashboard** provides insights into credit card usage, customer s
 - Add predictive analytics to forecast credit card usage and potential risks.
 - Implement machine learning models to predict customer churn or fraud.
 
-[credit card customer transaction report.pdf](https://github.com/user-attachments/files/17003273/credit.card.customer.transaction.report.pdf)
 
 
-credit card customer transaction report.pdf
