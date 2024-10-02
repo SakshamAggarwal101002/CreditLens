@@ -1,5 +1,6 @@
 # CreditLens
 ![Screenshot 2024-10-02 170649](https://github.com/user-attachments/assets/079f466f-7493-4dc8-8a64-e012b548b3e3)
+![Screenshot 2024-10-02 170704](https://github.com/user-attachments/assets/03b740ca-e06f-44ad-a6e1-93a5ea93af43)
 
 This **Power BI Dashboard** provides insights into credit card usage, customer spending behavior, and transaction patterns. The dashboard aims to help businesses understand customer segments, track key performance metrics, and make data-driven decisions.
 
